@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE_NAME: poojarivinod/todo-app   # change this
+  DOCKER_IMAGE_NAME: poojarivinod1/todo-app   # change this
   AWS_REGION: us-east-1
   EKS_CLUSTER_NAME: todo-cluster
   # Add other env as needed
